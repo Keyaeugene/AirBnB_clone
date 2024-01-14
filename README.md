@@ -154,7 +154,7 @@ No known bugs at the time.
 
 ## Authors
 Eugene Keya - [Github] keyaeugene
-Dennis Washira - [Github] dennismutitu006
+Dennis Wachira - [Github] dennismutitu006
 
 ## License
 Public Domain. No copy write protection. 
